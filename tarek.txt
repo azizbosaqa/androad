@@ -1,0 +1,6 @@
+this is file test in git push origin master
+git init
+git add .
+git commit -m "........."
+git remote add origin html://github.com/azizbosaqa.........
+git push origin master
